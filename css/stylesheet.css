@@ -5,3 +5,36 @@
     font-family: Helvetica;
 }
 
+/* Styling the nav bar */
+nav {
+    display:flex;
+    align-items: center;
+    width: 100%;
+    height:69px;
+    position:fixed;
+}
+
+nav img {
+    margin-left: 10px;
+    height: 50px;
+}
+
+nav a{
+    color:white;
+    text-decoration: underline;
+}
+
+nav li {
+    display:inline;
+    margin-right: 10px;
+}
+
+nav ul{
+    flex-grow: 1;
+    text-align: end;
+}
+
+/* Styling the mission section one */
+
+
+
