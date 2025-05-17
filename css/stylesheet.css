@@ -114,13 +114,12 @@ span {
   position: relative;
   min-height: 500px;
   min-width:1000px;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
-#locations_section_three img{
-    max-height: 500px;
-    z-index: 0;
-    position: absolute;
-}
 
 #heading_sect_three{
     
