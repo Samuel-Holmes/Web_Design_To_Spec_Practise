@@ -8,4 +8,6 @@ Design specifications can be found within the design_spec_and_assets directory w
 
 ### Video of Completed Site
 
-Video of the completed site for comparison ot the design spec can be found at the following URL : https://samuel-holmes.github.io/Video_Demos/
+Video of the completed site for comparison ot the design spec can be found at the following URL : 
+
+https://samuel-holmes.github.io/Video_Demos/
