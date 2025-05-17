@@ -129,12 +129,13 @@ span {
     display:flex;
     flex-direction: row;
     height:200px;
-    justify-content:space-evenly;
+    justify-content:space-around;
     align-items: center;
     margin-top: 15px;
     gap: 30px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    
 }
 
 #location_box_one, #location_box_two, #location_box_three{
