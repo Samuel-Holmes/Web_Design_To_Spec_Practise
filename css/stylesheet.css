@@ -76,6 +76,7 @@ nav ul{
 
 #section_two_heading{
     text-align: center;
+    margin-top: 20px;
 }
 #tea_of_the_month_section_two{
     display: flex;
@@ -113,17 +114,39 @@ span {
   background-repeat: no-repeat;
   position: relative;
   min-height: 500px;
-  min-width:1000px;
   display:flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  row-gap: 15px;
+  
 }
 
-
-#heading_sect_three{
-    
+#three_boxes_addresses{
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+    height:200px;
+    justify-content:space-evenly;
+    align-items: center;
+    margin-top: 15px;
+    gap: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
+
+#location_box_one, #location_box_two, #location_box_three{
+    background-color: black;
+    width: 300px;
+    text-align:center;
+    opacity:1;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    gap:10px;
+}
+
 
 
 
@@ -131,6 +154,7 @@ span {
 
 #footer{
     margin-top: auto;
+    
 }
 
 
