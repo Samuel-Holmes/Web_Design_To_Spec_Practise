@@ -208,6 +208,8 @@ footer{
     #main_container{
        max-width: 480px;
     }
+
+    
 }
 
 @media (width > 481px) {
