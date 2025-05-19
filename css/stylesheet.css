@@ -1,3 +1,6 @@
+html{
+    font-size: 22px;
+}
 * {
     box-sizing: border-box;
     font-family: Helvetica;
@@ -181,7 +184,30 @@ footer{
 /* adding breakpoints for responsive design */
 
 @media (width <= 480px) {
-    
+    *{
+        font-size: 0.75rem;
+    }
+
+    nav{
+        max-width: 100vw;
+    }
+
+    nav img{
+        height: 30px;
+    }
+
+    nav li{
+        display: inline;
+        margin: none;
+        margin-right: 10px;
+    }
+    nav ul{
+        text-align: left;
+    }
+
+    #main_container{
+       max-width: 480px;
+    }
 }
 
 @media (width > 481px) {
