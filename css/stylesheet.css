@@ -25,6 +25,7 @@ html{
  justify-content: space-between;
  padding-top: 69px;
  max-width: 100vw;
+ gap: 50px;
  
 }
 
@@ -126,6 +127,7 @@ span {
 #locations_section_three {
     background-image: url(/design_spec_and_assets/img-locations-background.jpg);
     width: 100%;
+    max-width: 1000px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
