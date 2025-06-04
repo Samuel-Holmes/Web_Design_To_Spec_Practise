@@ -2,9 +2,15 @@
 
 This is a practise project for designing a website to a specification, allowing me to ensure that I have gained a thorough understanding of the necessary HTML and CSS required to meet design requirements.
 
-### Further Project Information
+### Key Requirements
 
-Design specifications can be found within the design_spec_and_assets directory within the main repository. The desired outcome of the project is to reproduce the design as accurately as possible. 
+* Meet the design criteria as accurately as possible
+
+* Ensure responsive design accomodating for multiple screen sizes
+
+* Adress appropriate accessibility concerns such as use of screen readers
+
+* HTML should pass W3C validator checks 
 
 ### Video of Completed Site
 
